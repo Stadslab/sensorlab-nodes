@@ -1,10 +1,10 @@
 /************************ Adafruit IO Config *******************************/
 
-#define WIFI_SSID  "wifi"
-#define WIFI_PASS  "pass"
+#define WIFI_SSID  "..."
+#define WIFI_PASS  "..."
 
-#define IO_USERNAME  "adafruit io username"
-#define IO_KEY    "adafruit io key"
+#define IO_USERNAME  "..."
+#define IO_KEY    "..."
 
 // comment out the following two lines if you are using fona or ethernet
 #include "AdafruitIO_WiFi.h"
